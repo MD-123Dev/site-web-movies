@@ -1,0 +1,23 @@
+.fas.fa-star{
+    font-size: larger;
+}
+
+.panel-body>.far.fa-thumbs-up {
+     font-size:60px;
+     border-color:black;
+     border-radius: 50%;
+     background:white;
+}
+.panel-body>.far.fa-thumbs-up:hover {
+   background-color: lightseagreen;
+}
+.panel-body>.far.fa-thumbs-down {
+  font-size:60px;
+  border-color:black;
+   border-radius: 50%;
+   background:white;
+}
+
+.panel-body>.far.fa-thumbs-down:hover {
+     background-color: red;
+}

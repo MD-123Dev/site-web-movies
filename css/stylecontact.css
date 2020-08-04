@@ -1,0 +1,9 @@
+/**for add conainer  in centre  */
+body{
+    margin: 0;
+}
+.container {
+    margin-left: 450px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}

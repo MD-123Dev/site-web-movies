@@ -1,0 +1,13 @@
+
+.panel>.panel-heading {
+    border: black;
+    border: 80px;
+}
+
+
+
+.panel.panel-primary>.panel-body>img{
+      width: 10px;
+      height: 3px;
+     
+}

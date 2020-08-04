@@ -1,0 +1,33 @@
+/* back ground nav bar */ 
+.navbar{
+    background-color: white !important;
+    
+  
+}
+/* color link text  */ 
+.navbar  .nav-item .nav-link{/*that is like patch not mean in all this class */
+    color: black !important;
+    font-size: 18px;
+}
+
+/* when move mouse at link what style show */ 
+.navbar  .nav-item .nav-link:hover{
+    color: deeppink !important;
+    border-bottom: 2px solid plum ;
+    
+  
+}
+
+/* name site in web site is in navbar  */ 
+.navbar .navbar-brand{
+    color: black !important;
+    font-size: 40px;
+}
+
+/* that is logo login */
+.nav .nav-link .fas{
+    color: lightseagreen;
+   font-size: 1.30em;
+   width: 25px;
+}
+

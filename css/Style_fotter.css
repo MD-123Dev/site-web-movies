@@ -1,0 +1,13 @@
+.footer_s {
+    background-color: black !important;
+    color: seashell;
+}
+
+ .footer_s section p{
+    color:darkgray ;
+    margin-top: 5px;
+}
+
+.content_Tx{
+    margin-top: 100px;
+}
